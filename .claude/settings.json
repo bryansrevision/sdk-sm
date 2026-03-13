@@ -9,12 +9,6 @@
         "source": "github",
         "repo": "bitwarden/ai-plugins"
       }
-    },
-    "sdk-sm-integration": {
-      "source": {
-        "source": "github",
-        "repo": "bryansrevision/sdk-sm"
-      }
     }
   }
 }
